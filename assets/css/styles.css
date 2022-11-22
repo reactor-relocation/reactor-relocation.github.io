@@ -2,3 +2,7 @@
     font-size: 5mm;
     line-height: 9mm;
 }
+
+#country-korea #guesthouse img {
+    max-width: 98%;
+}

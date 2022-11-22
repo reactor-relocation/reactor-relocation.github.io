@@ -12,7 +12,7 @@ pageid: mainpage
     <li><a href="/stub.html"><span class="fi fi-az"></span> Азербайджан</a></li>
     <li><a href="/stub.html"><span class="fi fi-ge"></span> Грузия</a></li>
     <li><a href="/stub.html"><span class="fi fi-kg"></span> Кыргызстан</a></li>
-    <li><a href="/stub.html"><span class="fi fi-kr"></span> Южная Корея</a></li>
+    <li><a href="/countries/south-korea.html"><span class="fi fi-kr"></span> Южная Корея</a></li>
     <li><a href="/stub.html"><span class="fi fi-kz"></span> Казахстан</a></li>
     <li><a href="/stub.html"><span class="fi fi-me"></span> Черногория</a></li>
     <li><a href="/stub.html"><span class="fi fi-rs"></span> Сербия</a></li>
