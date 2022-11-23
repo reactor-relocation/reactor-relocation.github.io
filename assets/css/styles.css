@@ -24,7 +24,7 @@ li::marker {
     line-height: 9mm;
 }
 
-#mainpage li {
+#mainpage .countries li {
     list-style: none;
 }
 
