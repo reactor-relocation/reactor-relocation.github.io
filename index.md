@@ -15,7 +15,7 @@ pageid: mainpage
     <li><a href="/stub.html"><span class="fi fi-ge"></span> Грузия</a></li>
     <li><a href="/countries/qazaqstan.html"><span class="fi fi-kz"></span> Казахстан</a></li>
     <li><a href="/stub.html"><span class="fi fi-kg"></span> Кыргызстан</a></li>
-    <li><a href="/stub.html"><span class="fi fi-rs"></span> Сербия</a></li>
+    <li><a href="/countries/serbia.html"><span class="fi fi-rs"></span> Сербия</a></li>
     <li><a href="/stub.html"><span class="fi fi-tr"></span> Турция</a></li>
     <li><a href="/stub.html"><span class="fi fi-uz"></span> Узбекистан</a></li>
     <li><a href="/stub.html"><span class="fi fi-me"></span> Черногория</a></li>
