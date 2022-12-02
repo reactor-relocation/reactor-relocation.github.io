@@ -1,0 +1,47 @@
+---
+---
+
+ul {
+    padding: unset;
+    margin: revert;
+}
+
+li {
+    list-style: decimal-leading-zero;
+    list-style-position: inside !important;
+}
+
+li::marker {
+    font-weight: bold;
+}
+
+#header .logo a,#header .logo a:hover {
+    width: 80px;
+    text-indent: initial;
+    color: white;
+    padding-left: 80px;
+}
+
+#mainpage {
+    ul.countries {
+        li {
+            list-style: none;
+    
+            a {
+                font-size: 5mm;
+                line-height: 9mm;
+            }
+        }
+    }
+}
+
+div#background {
+    min-height: 100%;
+}
+
+div#container {
+    min-height: 100%;
+}
+
+@import "faq";
+@import "korea";

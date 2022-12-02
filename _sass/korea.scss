@@ -1,0 +1,19 @@
+#country-korea {
+    li {
+        list-style: korean-hangul-formal;
+    }
+    
+    #guesthouse img {
+        max-width: 98%;
+    }
+    
+    
+    .park-image {
+        float: left;
+
+        img {
+            height: 222px;
+            margin: 0px 22px 0px 0px;
+        }
+    }
+}

@@ -1,0 +1,37 @@
+.faq {
+    .alert {
+        a {
+            color: darkblue;
+        }
+    }
+    
+	.alert.col-10 {
+		position: relative;
+		min-height: 96px;
+	}
+
+	.alert-danger.col-10 {
+		padding-left: 96px;
+	}
+
+	.alert-secondary.col-10,
+	.alert-warning.col-10 {
+		padding-right: 96px;
+	}
+
+	.alert.col-10 i.fas {
+		position: absolute;
+		font-size: 64px;
+
+		&.fa-question-circle {
+			top: 10px;
+			left: 10px;
+		}
+
+		&.fa-exclamation-circle,
+		&.fa-exclamation-triangle {
+			bottom: 10px;
+			right: 10px;
+		}
+	}
+}
